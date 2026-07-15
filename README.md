@@ -22,8 +22,9 @@ Bu araç, Windows'un güçlü ve güvenilir kopyalama motoru **Robocopy**'yi kar
 
 ## 📸 Ekran Görüntüsü
 
-*(Buraya projenizin ekran görüntüsünü ekleyebilirsiniz)*
-`![Ekran Goruntusu](screenshot.png)`
+<img width="707" height="929" alt="powershell_FC0hxW3p3w" src="https://github.com/user-attachments/assets/4fd43727-1b69-40e6-a178-c185d19d0420" />
+<img width="707" height="929" alt="powershell_EVozB3J2Pj" src="https://github.com/user-attachments/assets/d9701ac7-0849-4d32-837e-c2359ff79cc6" />
+
 
 ---
 
